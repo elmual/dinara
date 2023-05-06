@@ -16,3 +16,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+ol{
+    border: 1px solid rgb(81, 80, 90);
+      padding: 35px;
+  }
+  
+  ul{
+    border: 1px solid rgb(81, 80, 90);
+      padding: 35px;
+  }
